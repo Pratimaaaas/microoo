@@ -1,0 +1,49 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  nav{
+    padding: 30px;
+    text-align: center;
+    background:rebeccapurple;
+    color: white;
+    font-size: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  ul{
+  list-style-type: none;
+  
+  }
+  li{
+    display: inline;
+  }
+  a{
+    text-decoration: none;
+    margin-right: 30px;
+  }
+  footer{
+    background: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    color: white;
+    text-align: center;
+  }
+  body{
+    height: 200px;
+    background-color: rgba(34, 213, 139, 0.209); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgba(88, 85, 85, 0.205), yellow);
+  }
+  #home-data{
+    text-align: center;
+    padding-top: none;
+  }
+
+
+  
